@@ -1,9 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700italic,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400, 300,300italic,400italic,500,500italic,700italic,700);
 
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.5 "lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:300;
 }
@@ -54,7 +54,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  width:95%;
   margin:0 auto;
 }
 
